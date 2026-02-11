@@ -1,4 +1,5 @@
 # jeconiah.dev | Portfolio
+Live: https://jeconiah-dev-portfolio.netlify.app/
 
 My personal portfolio website showcasing my journey as a Fullstack Developer.
 
