@@ -48,15 +48,6 @@ Installation:
 
 Now open: http://localhost:5173 in your browser!
 
-## Contact
-Jeconiah Sontakke - Fullstack Developer
-
-Platform	Link
-**📧 Email**	jeconiah2021@gmail.com
-**🐙 GitHub** @Jeconiah20
-**💼 LinkedIn**	Connect with me
-**🌐 Portfolio**	jeconiah.dev
-
 ## Note: Don't forget to ⭐ this repo if you find it helpful!
 
 Made by Jeconiah Sontakke
