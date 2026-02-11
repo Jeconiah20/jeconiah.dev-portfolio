@@ -34,42 +34,29 @@ My personal portfolio website showcasing my journey as a Fullstack Developer.
 
 Installation:
 
-1. Clone the repository
+1. ## Clone the repository
    git clone https://github.com/Jeconiah20/jeconiah.dev-portfolio.git
 
-2. Navigate to the project folder
+2. ## Navigate to the project folder
    cd jeconiah.dev-portfolio
 
-3. Install dependencies  
+3. ## Install dependencies  
    npm install
 
-4. Start the development server
+4. ## Start the development server
    npm run dev
 
-Now open http://localhost:5173 in your browser!
+Now open: http://localhost:5173 in your browser!
 
-Project Structure
-jeconiah.dev-portfolio/
-│
-├── src/
-│ ├── components/
-│ │ ├── Navigation.jsx # Sticky navbar with smooth links
-│ │ ├── HeroSection.jsx # Landing page with Typewriter effect
-│ │ ├── StorySection.jsx # Experience timeline
-│ │ ├── SkillsSection.jsx # Tech stack grid
-│ │ ├── ProjectsSection.jsx # Portfolio gallery
-│ │ ├── ContactSection.jsx # Web3Forms integration
-│ │ └── Footer.jsx # Social links & Copyright
-│ │
-│ ├── App.jsx # Component wrapper & Lenis init
-│ ├── main.jsx # React entry point
-│ └── index.css # Tailwind directives & global styles
-│
-├── public/ # Static assets (images, icons)
-├── index.html # Main HTML template
-├── tailwind.config.js # Tailwind theme customization
-└── package.json # Project scripts & dependencies
+## Contact
+Jeconiah Sontakke - Fullstack Developer
 
-Note: Don't forget to ⭐ this repo if you find it helpful!
+Platform	Link
+**📧 Email**	jeconiah2021@gmail.com
+**🐙 GitHub** @Jeconiah20
+**💼 LinkedIn**	Connect with me
+**🌐 Portfolio**	jeconiah.dev
+
+## Note: Don't forget to ⭐ this repo if you find it helpful!
 
 Made by Jeconiah Sontakke
