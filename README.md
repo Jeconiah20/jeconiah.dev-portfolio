@@ -2,11 +2,6 @@
 
 My personal portfolio website showcasing my journey as a Fullstack Developer.
 
-![Portfolio Preview](https://img.shields.io/badge/Portfolio-Live-brightgreen)
-![React](https://img.shields.io/badge/React-18-blue)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC)
-![Framer Motion](https://img.shields.io/badge/Framer-Motion-FF0055)
-
 ## Features
 
 - **Smooth Animations** - Powered by Framer Motion
